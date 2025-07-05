@@ -1,0 +1,17 @@
+# Vehicle Detection Alert System - Requirements
+# Install with: pip install -r requirements.txt
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer Vision
+opencv-python>=4.5.0
+
+# Audio Processing
+pygame>=2.1.0
+
+# Standard Libraries (usually included with Python)
+# glob - File pattern matching
+# os - Operating system interface  
+# time - Time-based operations
